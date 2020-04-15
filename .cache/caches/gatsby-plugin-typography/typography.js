@@ -1,0 +1,1 @@
+module.exports = require("/Users/matthewleung/Documents/GitHub/gatsby-starter-22boxes-uno/src/utils/typography")
